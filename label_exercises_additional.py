@@ -128,7 +128,7 @@ TAGGING_SYSTEM_PROMPT_2 = """
 Hier ist die Liste der Übungen, die du jetzt labeln sollst:
 """
 
-
+# Prompt zusammensetzen
 TAGGING_SYSTEM_PROMPT = TAGGING_SYSTEM_PROMPT_1 + TAGGING_SYSTEM_PROMPT_2
 
 
