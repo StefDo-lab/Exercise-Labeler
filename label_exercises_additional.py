@@ -27,7 +27,7 @@ OUTPUT_FILE = "labeled_exercises.csv" # Ergebnis-CSV-Datei
 INPUT_FILE = "Youtube_Videos_Genemedics.csv"
 
 
-
+# Input file has to be a ';'-separated file with the name of the exercise in the 2nd row
 INPUT_FILE = "exercises_genemedics.csv"
 OUTPUT_FILE = f"labeled_additional_{INPUT_FILE}" # Ergebnis-CSV-Datei
 BATCH_SIZE = 50  # Wie viele Übungen pro KI-Anfrage verarbeitet werden sollen
